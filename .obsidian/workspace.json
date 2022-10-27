@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "99e38bd01ac92176",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa2811e93e3a6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "792a9a34cca7d50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNU Makefile 学习笔记/书写规则.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "671bc47d9840d7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNU Makefile 学习笔记/Makefile介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "043ef7e1317266b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "834422bcf0d058c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2310f97c7c7b4363",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b22c4ecc09f4fcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b7d2ac9a66fdec8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d0b9ec3be7d1e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bef42320d739af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab665ee545d1936",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GNU Makefile 学习笔记/Makefile介绍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a3dd5e1440a410e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GNU Makefile 学习笔记/Makefile介绍.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7029d8a70495185",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4541265e989fcc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GNU Makefile 学习笔记/Makefile介绍.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2310f97c7c7b4363",
+  "lastOpenFiles": [
+    "GNU Makefile 学习笔记/test.md",
+    "GNU Makefile 学习笔记/书写规则.md",
+    "GNU Makefile 学习笔记/概述.md",
+    "GNU Makefile 学习笔记/Makefile介绍.md",
+    "GNU Makefile 学习笔记/书写命令.md",
+    "Recording 20221025205224.webm",
+    "2022-10-25.md"
+  ]
+}
