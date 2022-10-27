@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "MyLearningNotes",
+  "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
   "username": "",

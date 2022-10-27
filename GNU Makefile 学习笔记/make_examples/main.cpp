@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-  cout<<fib(10)<<endl;
+  cout<<fib(15)<<endl;
   return 0;
 }

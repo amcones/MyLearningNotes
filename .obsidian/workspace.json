@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d773b5c326d0fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake 学习笔记/CMake概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNU Makefile 学习笔记/总结（个人版）.md",
+                "file": "CMake 学习笔记/CMake概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNU Makefile 学习笔记/总结（个人版）.md",
+                "file": "CMake 学习笔记/CMake概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNU Makefile 学习笔记/总结（个人版）.md"
+                "file": "CMake 学习笔记/CMake概述.md"
               }
             }
           },
@@ -167,17 +179,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "925eb7f649535913",
+  "active": "6d773b5c326d0fee",
   "lastOpenFiles": [
+    "GNU Makefile 学习笔记/总结（个人版）.md",
     "GNU Makefile 学习笔记/书写规则.md",
     "GNU Makefile 学习笔记/Makefile介绍.md",
     "GNU Makefile 学习笔记/概述.md",
-    "GNU Makefile 学习笔记/总结（个人版）.md",
     "GNU Makefile 学习笔记/书写命令.md",
     "CMake 学习笔记/modern-cmake-by-example/README.md",
     "GNU Makefile 学习笔记/test.md",

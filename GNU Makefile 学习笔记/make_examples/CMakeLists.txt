@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.9)
+project(example1)
+add_executable(example1 main.cpp)
+set (CMAKE_C_COMPILER "gcc-12")
+set (CMAKE_CXX_COMPILER "g++-12")
