@@ -1,3 +1,5 @@
+#CMake 
+
 现代构建C/C++项目最流行的方式，十分高端，十分蛋疼。
 
 ## 基本结构
@@ -41,6 +43,12 @@ target_link_libraries(answer libanswer)
 
 ```CMake
 add_subdirectory(answer)
+```
+
+### 包含其它CMake脚本
+
+```CMake
+include(CTest)
 ```
 
 ### 添加include path
@@ -99,4 +107,16 @@ add_compile_options(-std=c++11 -Wall -Werror)
 ## 单元测试
 
 关于CTest的内容，目前不是很懂，以后再补。
+
+```CMake
+# 引入一个 BUILD_TESTING 选项（类似之前的 CACHE STRING ，这是一个 CACHE BOOL），默认值为ON，可以在之后的 CMake 脚本中通过该选项判断是否需要 include 测试用例子目录。
+# 引入 CTest ，也是一个 CMake 脚本。
+if(CMAKE_PROJECT_NAME STREQUAL PROJECT_NAME)
+	include(CTest)
+endif()
+...
+if(BUILD_TESTING)
+	add_subdirectory(tests)
+endif()
+```
 
