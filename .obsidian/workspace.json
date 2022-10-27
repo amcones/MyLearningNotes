@@ -141,18 +141,26 @@
                 "file": "GNU Makefile 学习笔记/Makefile介绍.md"
               }
             }
+          },
+          {
+            "id": "a27257c52065bd82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2310f97c7c7b4363",
+  "active": "a27257c52065bd82",
   "lastOpenFiles": [
     "GNU Makefile 学习笔记/test.md",
     "GNU Makefile 学习笔记/书写规则.md",
