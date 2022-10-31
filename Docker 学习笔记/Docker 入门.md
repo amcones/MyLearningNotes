@@ -51,3 +51,5 @@ docker build -t getting-started .
 ```Shell
 docker run -dp 3000:3000 getting-started
 ```
+使用 `-d`标志在后台运行一个新的容器，并且使用 `-p`标志来创建一个主机3000端口和容器3000端口的映射。运行后可以在 `http://localhost:3000`访问刚刚运行的应用。在docker dashboard上也可以看到刚刚运行的容器。
+
