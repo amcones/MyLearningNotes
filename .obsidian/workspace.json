@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0026476c983d5223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis 学习笔记/Key的层级.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis 学习笔记/String 类型.md",
+                "file": "Redis 学习笔记/Key的层级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis 学习笔记/String 类型.md",
+                "file": "Redis 学习笔记/Key的层级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis 学习笔记/String 类型.md"
+                "file": "Redis 学习笔记/Key的层级.md"
               }
             }
           },
@@ -231,8 +243,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "451e2fd056dee171",
+  "active": "0026476c983d5223",
   "lastOpenFiles": [
+    "Redis 学习笔记/String 类型.md",
     "Redis 学习笔记/Redis 通用命令.md",
     "Redis 学习笔记/安装Redis（Linux）.md",
     "Docker 学习笔记/分享应用.md",
@@ -241,7 +254,6 @@
     "Docker 学习笔记/持续保存数据库.md",
     "Docker 学习笔记/更新应用.md",
     "Docker 学习笔记/Docker 入门.md",
-    "CMake 学习笔记/CMake概述.md",
-    "Shell 学习笔记/Shell 个人笔记.md"
+    "CMake 学习笔记/CMake概述.md"
   ]
 }
