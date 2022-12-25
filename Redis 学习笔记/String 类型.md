@@ -1,0 +1,9 @@
+- set
+- get
+- mset: 批量添加键值对
+- mget: 批量查询键值对
+- incr: 自增1
+- incrby: 设置步长
+- incrbyfloat: 让一个浮点数自增并指定步长
+- setnx: 如果不存在则新增
+- setex: 新增并指定有效期
