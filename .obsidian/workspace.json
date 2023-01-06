@@ -150,9 +150,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "561def8cdebdc81c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -291,7 +301,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "872650b025d724b3",
+  "active": "561def8cdebdc81c",
   "lastOpenFiles": [
     "Redis 学习笔记/String 类型.md",
     "Redis 学习笔记/Redis 通用命令.md",
