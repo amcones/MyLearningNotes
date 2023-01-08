@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92c034cc438bf2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/前言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a3b998944a80de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/第二章 函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd51160bc6b55467",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,15 +160,15 @@
   },
   "active": "fd51160bc6b55467",
   "lastOpenFiles": [
+    "生涯日记/ReadMe.md",
     "生涯日记/2023.1/7日.md",
     "生涯日记/2023.1/8日.md",
-    "生涯日记/ReadMe.md",
     "Golang 学习笔记/第二章 函数.md",
+    "Golang 学习笔记/前言.md",
     "Golang 学习笔记/第一章 基础.md",
     "Golang 学习笔记/第三章 类型系统.md",
     "Golang 学习笔记/第四章 接口.md",
     "Golang 学习笔记/第五章 并发.md",
-    "Golang 学习笔记/第六章 反射.md",
-    "Golang 学习笔记/第七章 泛型.md"
+    "Golang 学习笔记/第六章 反射.md"
   ]
 }
