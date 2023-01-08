@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang 学习笔记/第一章 基础.md",
+                "file": "Golang 学习笔记/第二章 函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang 学习笔记/第一章 基础.md",
+                "file": "Golang 学习笔记/第二章 函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang 学习笔记/第一章 基础.md",
+                "file": "Golang 学习笔记/第二章 函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang 学习笔记/第一章 基础.md"
+                "file": "Golang 学习笔记/第二章 函数.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "5a3b998944a80de7",
   "lastOpenFiles": [
+    "Golang 学习笔记/第一章 基础.md",
     "Golang 学习笔记/第二章 函数.md",
     "Golang 学习笔记/第三章 类型系统.md",
     "Golang 学习笔记/第四章 接口.md",
@@ -180,7 +181,6 @@
     "Golang 学习笔记/第六章 反射.md",
     "Golang 学习笔记/第七章 泛型.md",
     "Golang 学习笔记/第八章 工程管理.md",
-    "Golang 学习笔记/第一章 基础.md",
     "Golang 学习笔记/前言.md",
     "未命名.canvas"
   ]
