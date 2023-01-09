@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a046b1db0a3e9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库 学习笔记/三大范式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a988db907becf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库 学习笔记/索引.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de06fcc0e6d0faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库 学习笔记/事务管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生涯日记/2023.1/8日.md",
+                "file": "数据库 学习笔记/事务管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生涯日记/2023.1/8日.md",
+                "file": "数据库 学习笔记/事务管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生涯日记/2023.1/8日.md"
+                "file": "数据库 学习笔记/事务管理.md"
               }
             }
           },
@@ -158,17 +195,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "fd51160bc6b55467",
+  "active": "6de06fcc0e6d0faf",
   "lastOpenFiles": [
+    "数据库 学习笔记/锁.md",
+    "数据库 学习笔记/常用SQL语句.md",
+    "数据库 学习笔记/事务管理.md",
+    "数据库 学习笔记/索引.md",
+    "数据库 学习笔记/三大范式.md",
+    "生涯日记/2023.1/8日.md",
     "生涯日记/ReadMe.md",
     "生涯日记/2023.1/7日.md",
-    "生涯日记/2023.1/8日.md",
     "Golang 学习笔记/第二章 函数.md",
-    "Golang 学习笔记/前言.md",
-    "Golang 学习笔记/第一章 基础.md",
-    "Golang 学习笔记/第三章 类型系统.md",
-    "Golang 学习笔记/第四章 接口.md",
-    "Golang 学习笔记/第五章 并发.md",
-    "Golang 学习笔记/第六章 反射.md"
+    "Golang 学习笔记/前言.md"
   ]
 }
