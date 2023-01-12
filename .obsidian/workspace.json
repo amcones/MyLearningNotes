@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang 学习笔记/Gin/第二章 返回资源.md",
+                "file": "Docker 学习笔记/Docker 入门.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang 学习笔记/Gin/第二章 返回资源.md",
+                "file": "Docker 学习笔记/Docker 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang 学习笔记/Gin/第二章 返回资源.md",
+                "file": "Docker 学习笔记/Docker 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang 学习笔记/Gin/第二章 返回资源.md"
+                "file": "Docker 学习笔记/Docker 入门.md"
               }
             }
           },
@@ -293,6 +293,7 @@
   },
   "active": "2dccf19857561a90",
   "lastOpenFiles": [
+    "Golang 学习笔记/Gin/第二章 返回资源.md",
     "Golang 学习笔记/Gin/第一章 把服务跑起来.md",
     "Golang 学习笔记/Gin/简介.md",
     "生涯日记/2023.1/11日.md",
@@ -301,7 +302,6 @@
     "生涯日记/未命名.md",
     "算法 学习笔记/欧拉回路.md",
     "数据库 学习笔记/常用SQL语句.md",
-    "数据库 学习笔记/数据库优化.md",
-    "数据库 学习笔记/Redis.md"
+    "数据库 学习笔记/数据库优化.md"
   ]
 }

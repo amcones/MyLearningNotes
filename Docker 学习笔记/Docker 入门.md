@@ -22,8 +22,7 @@ touch Dockerfile
 在 `Dockerfile` 里写入：
 ```Shell
 # syntax=docker/dockerfile:1
-FROM node:12-alpine
-RUN apk add --no-cache python2 g++ make
+FROM node:18-alpine
 WORKDIR /app
 COPY . .
 RUN yarn install --production
@@ -37,7 +36,7 @@ docker build -t getting-started .
 ```
 在我的mbp上需要先启动docker desktop才能正常运行，目前还不清楚关系
 
-`docker build` 命令使用Dockerfile来构建一个容器镜像。在这个例子里，镜像是在 `node:12-alpine` 镜像的基础上构建的，所以需要先下载这个镜像。
+`docker build` 命令使用Dockerfile来构建一个容器镜像。在这个例子里，镜像是在 `node:18-alpine` 镜像的基础上构建的，所以需要先下载这个镜像。
 
 在下载完成之后，docker会根据Dockerfile的引导使用 `yarn` 下载应用依赖。 `CMD` 命令直接指定了在启动镜像的容器时使用的默认命令。
 
