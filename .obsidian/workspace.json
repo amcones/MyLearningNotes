@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd51160bc6b55467",
+            "id": "63f0ef42faef26de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生涯日记/2023.1/8日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a046b1db0a3e9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库 学习笔记/三大范式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45a988db907becf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库 学习笔记/索引.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6de06fcc0e6d0faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库 学习笔记/常用SQL语句.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd77f14dcd2c83bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生涯日记/2023.1/8日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf78b07c81c92dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库 学习笔记/Redis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c06a64e7f60f6632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生涯日记/2023.1/9日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "983444bedab70739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法 学习笔记/欧拉回路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f93075c3225199",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生涯日记/2023.1/11日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ff498556c8a67c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/Gin/简介.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1312c9c893f761c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/Gin/第一章 把服务跑起来.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dccf19857561a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker 学习笔记/Docker 入门.md",
+                "file": "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker 学习笔记/Docker 入门.md",
+                "file": "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker 学习笔记/Docker 入门.md",
+                "file": "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker 学习笔记/Docker 入门.md"
+                "file": "Golang 学习笔记/青训营/性能优化及自动内存管理.md"
               }
             }
           },
@@ -291,17 +158,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "2dccf19857561a90",
+  "active": "63f0ef42faef26de",
   "lastOpenFiles": [
-    "Golang 学习笔记/Gin/第二章 返回资源.md",
+    "Docker 学习笔记/Docker 入门.md",
     "Golang 学习笔记/Gin/第一章 把服务跑起来.md",
     "Golang 学习笔记/Gin/简介.md",
     "生涯日记/2023.1/11日.md",
-    "生涯日记/2023.1/10日.md",
-    "生涯日记/2023.1/9日.md",
-    "生涯日记/未命名.md",
     "算法 学习笔记/欧拉回路.md",
+    "生涯日记/2023.1/9日.md",
+    "数据库 学习笔记/Redis.md",
+    "生涯日记/2023.1/8日.md",
     "数据库 学习笔记/常用SQL语句.md",
-    "数据库 学习笔记/数据库优化.md"
+    "数据库 学习笔记/索引.md"
   ]
 }
