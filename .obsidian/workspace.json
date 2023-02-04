@@ -61,18 +61,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang 学习笔记/青训营/架构定义.md",
+                "file": "Golang 学习笔记/青训营/分布式理论.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e9278ec87e3c0413",
-            "type": "leaf",
-            "state": {
-              "type": "Search on Internet",
-              "state": {}
             }
           }
         ],
@@ -142,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang 学习笔记/青训营/架构定义.md",
+                "file": "Golang 学习笔记/青训营/分布式理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang 学习笔记/青训营/架构定义.md",
+                "file": "Golang 学习笔记/青训营/分布式理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang 学习笔记/青训营/架构定义.md"
+                "file": "Golang 学习笔记/青训营/分布式理论.md"
               }
             }
           },
@@ -217,8 +209,8 @@
   },
   "active": "c66c153045dc733a",
   "lastOpenFiles": [
-    "Golang 学习笔记/青训营/分布式理论.md",
     "Golang 学习笔记/青训营/架构定义.md",
+    "Golang 学习笔记/青训营/分布式理论.md",
     "Golang 学习笔记/青训营/规则引擎设计与实现.md",
     "Golang 学习笔记/青训营/Go 高质量编程与性能调优.md",
     "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
