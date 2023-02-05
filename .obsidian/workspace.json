@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aaecca2088e73ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang 学习笔记/青训营/系统设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式理论.md",
+                "file": "Golang 学习笔记/青训营/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式理论.md",
+                "file": "Golang 学习笔记/青训营/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式理论.md"
+                "file": "Golang 学习笔记/青训营/系统设计.md"
               }
             }
           },
@@ -207,17 +219,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "c66c153045dc733a",
+  "active": "2310f97c7c7b4363",
   "lastOpenFiles": [
-    "Golang 学习笔记/青训营/架构定义.md",
-    "Golang 学习笔记/青训营/分布式理论.md",
-    "Golang 学习笔记/青训营/规则引擎设计与实现.md",
     "Golang 学习笔记/青训营/Go 高质量编程与性能调优.md",
     "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
+    "Golang 学习笔记/青训营/规则引擎设计与实现.md",
+    "Golang 学习笔记/青训营/架构定义.md",
+    "Golang 学习笔记/青训营/分布式理论.md",
+    "Golang 学习笔记/青训营/系统设计.md",
     "Docker 学习笔记/Docker 入门.md",
     "Golang 学习笔记/Gin/第一章 把服务跑起来.md",
     "Golang 学习笔记/Gin/简介.md",
-    "生涯日记/2023.1/11日.md",
-    "算法 学习笔记/欧拉回路.md"
+    "生涯日记/2023.1/11日.md"
   ]
 }
