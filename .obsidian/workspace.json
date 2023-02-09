@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63f0ef42faef26de",
+            "id": "a6d3f921fd5c0532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e593472d4dc1f4f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/Go 高质量编程与性能调优.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a8e7b7437ba5230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/规则引擎设计与实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a0a24b5f940dd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/架构定义.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c66c153045dc733a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/分布式理论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaecca2088e73ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/系统设计.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f1c0bdbf890622b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/黑灰产监控与防御.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ee8e9b7f565448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/分布式定时任务.md",
+                "file": "Golang 学习笔记/青训营/消息队列.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式定时任务.md",
+                "file": "Golang 学习笔记/青训营/消息队列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式定时任务.md",
+                "file": "Golang 学习笔记/青训营/消息队列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang 学习笔记/青训营/分布式定时任务.md"
+                "file": "Golang 学习笔记/青训营/消息队列.md"
               }
             }
           },
@@ -243,17 +158,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "99ee8e9b7f565448",
+  "active": "a6d3f921fd5c0532",
   "lastOpenFiles": [
+    "Golang 学习笔记/青训营/分布式定时任务.md",
     "Golang 学习笔记/青训营/黑灰产监控与防御.md",
     "Golang 学习笔记/青训营/系统设计.md",
+    "Golang 学习笔记/青训营/分布式理论.md",
+    "Golang 学习笔记/青训营/架构定义.md",
+    "Golang 学习笔记/青训营/规则引擎设计与实现.md",
+    "Golang 学习笔记/青训营/消息队列.md",
     "Golang 学习笔记/青训营/Go 高质量编程与性能调优.md",
     "Golang 学习笔记/青训营/性能优化及自动内存管理.md",
-    "Golang 学习笔记/青训营/规则引擎设计与实现.md",
-    "Golang 学习笔记/青训营/架构定义.md",
-    "Golang 学习笔记/青训营/分布式理论.md",
-    "Docker 学习笔记/Docker 入门.md",
-    "Golang 学习笔记/Gin/第一章 把服务跑起来.md",
-    "Golang 学习笔记/Gin/简介.md"
+    "Docker 学习笔记/Docker 入门.md"
   ]
 }
