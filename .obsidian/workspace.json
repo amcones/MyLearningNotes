@@ -11,8 +11,12 @@
             "id": "a73da44219753d40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Golang 学习笔记/青训营/大项目日志.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golang 学习笔记/青训营/大项目日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Golang 学习笔记/青训营/大项目日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Golang 学习笔记/青训营/大项目日志.md"
+              }
             }
           },
           {
@@ -152,15 +160,15 @@
   },
   "active": "a73da44219753d40",
   "lastOpenFiles": [
-    "Golang 学习笔记/青训营/消息队列.md",
-    "Golang 学习笔记/青训营/RPC框架.md",
     "Golang 学习笔记/青训营/存储系统.md",
     "Golang 学习笔记/青训营/大项目日志.md",
+    "Golang 学习笔记/青训营/深入理解 RDBMS.md",
     "数据库 学习笔记/事务管理.md",
+    "Golang 学习笔记/青训营/消息队列.md",
+    "Golang 学习笔记/青训营/RPC框架.md",
     "Golang 学习笔记/青训营/分布式定时任务.md",
     "Golang 学习笔记/青训营/黑灰产监控与防御.md",
     "Golang 学习笔记/青训营/系统设计.md",
-    "Golang 学习笔记/青训营/分布式理论.md",
-    "Golang 学习笔记/青训营/架构定义.md"
+    "Golang 学习笔记/青训营/分布式理论.md"
   ]
 }
