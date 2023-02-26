@@ -1,5 +1,6 @@
 {
   "showLineNumber": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "计算机图形学/图片"
 }
