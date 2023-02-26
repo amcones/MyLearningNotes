@@ -8,108 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a73da44219753d40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/深入理解 RDBMS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c22aac137638898",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/深入了解 Redis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60d6c0f08408002c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang 学习笔记/青训营/ClickHouse-列存储.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e83736783e8bc5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "0b1fb174c940ebaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机图形学/期末复习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cc14a6254b34389",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "计算机图形学/图片/截屏2023-02-25 20.58.00.png"
-              }
-            }
-          },
-          {
-            "id": "23124ff3c7040c62",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "计算机图形学/图片/截屏2023-02-25 20.58.00.png"
-              }
-            }
-          },
-          {
-            "id": "4595c730b08df835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职/项目准备.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "250d447e4e5e8d3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职/面试准备.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8732e1b9bdfcf062",
             "type": "leaf",
             "state": {
@@ -121,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,8 +160,15 @@
   },
   "active": "8732e1b9bdfcf062",
   "lastOpenFiles": [
-    "求职/面试准备.md",
+    "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
+    "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
+    "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
+    "计算机图形学/图片/截屏2023-02-25 21.46.39.png",
+    "计算机图形学/图片/截屏2023-02-25 21.37.12.png",
+    "计算机图形学/图片/截屏2023-02-25 20.58.00.png",
     "操作系统/期末复习.md",
+    "操作系统/图片",
+    "求职/面试准备.md",
     "求职/项目准备.md",
     "Golang 学习笔记/青训营/大项目记.md",
     "求职",
@@ -281,13 +185,7 @@
     "计算机图形学/期末复习.md",
     "操作系统",
     "Docker 学习笔记/更新应用.md",
-    "计算机图形学/图片/截屏2023-02-25 21.37.12.png",
-    "计算机图形学/图片/截屏2023-02-25 20.58.00.png",
     "计算机图形学/图片",
-    "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
-    "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
-    "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
-    "计算机图形学/图片/截屏2023-02-25 21.46.39.png",
     "计算机图形学",
     "数据库 学习笔记/事务管理.md"
   ]
