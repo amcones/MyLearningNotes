@@ -2,5 +2,12 @@
   "showLineNumber": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "操作系统/图片"
+  "attachmentFolderPath": "操作系统/图片",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
