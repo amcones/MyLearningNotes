@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/期末复习.md",
+                "file": "Shell 学习笔记/Shell 个人笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "859804f6933d7830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "求职/项目开发.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/期末复习.md",
+                "file": "求职/项目开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/期末复习.md",
+                "file": "求职/项目开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/期末复习.md"
+                "file": "求职/项目开发.md"
               }
             }
           },
@@ -158,18 +171,26 @@
       "publish:发布更改": false
     }
   },
-  "active": "8732e1b9bdfcf062",
+  "active": "859804f6933d7830",
   "lastOpenFiles": [
+    "Shell 学习笔记/Shell 个人笔记.md",
+    "求职/项目开发.md",
+    "求职/面试准备.md",
+    "求职/项目准备.md",
+    "数据库 学习笔记/数据库优化.md",
+    "数据库 学习笔记/Redis.md",
+    "数据库 学习笔记/锁.md",
+    "数据库 学习笔记/事务管理.md",
+    "数据库 学习笔记/索引.md",
+    "数据库 学习笔记/三大范式.md",
+    "操作系统/期末复习.md",
     "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
     "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
     "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
     "计算机图形学/图片/截屏2023-02-25 21.46.39.png",
     "计算机图形学/图片/截屏2023-02-25 21.37.12.png",
     "计算机图形学/图片/截屏2023-02-25 20.58.00.png",
-    "操作系统/期末复习.md",
     "操作系统/图片",
-    "求职/面试准备.md",
-    "求职/项目准备.md",
     "Golang 学习笔记/青训营/大项目记.md",
     "求职",
     "Golang 学习笔记/青训营/系统设计.md",
@@ -186,7 +207,6 @@
     "操作系统",
     "Docker 学习笔记/更新应用.md",
     "计算机图形学/图片",
-    "计算机图形学",
-    "数据库 学习笔记/事务管理.md"
+    "计算机图形学"
   ]
 }
