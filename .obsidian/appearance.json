@@ -3,5 +3,6 @@
   "theme": "system",
   "translucency": true,
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 16
 }
