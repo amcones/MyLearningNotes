@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职/30天自制高性能linux web服务器.md",
+                "file": "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职/30天自制高性能linux web服务器.md",
+                "file": "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职/30天自制高性能linux web服务器.md",
+                "file": "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职/30天自制高性能linux web服务器.md"
+                "file": "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md"
               }
             }
           },
@@ -183,10 +183,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "312622dd68d5df83",
+  "active": "2310f97c7c7b4363",
   "lastOpenFiles": [
+    "30天自制高性能linux web服务器/图片",
+    "30天自制高性能linux web服务器",
     "求职/项目准备.md",
-    "求职/30天自制高性能linux web服务器.md",
+    "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
     "求职/项目开发.md",
     "Redis 学习笔记/Hash 类型.md",
     "Redis 学习笔记/Key的层级.md",
@@ -218,7 +220,6 @@
     "Golang 学习笔记/青训营/分布式定时任务.md",
     "Golang 学习笔记/青训营/消息队列.md",
     "Golang 学习笔记/青训营/RPC框架.md",
-    "Golang 学习笔记/青训营/存储系统.md",
     "操作系统",
     "计算机图形学/图片",
     "计算机图形学"
