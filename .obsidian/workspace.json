@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39e3410d410eed01",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "2310f97c7c7b4363",
+  "active": "39e3410d410eed01",
   "lastOpenFiles": [
     "30天自制高性能linux web服务器/图片",
     "30天自制高性能linux web服务器",
