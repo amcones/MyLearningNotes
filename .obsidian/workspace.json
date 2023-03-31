@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39e3410d410eed01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,8 +183,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "39e3410d410eed01",
+  "active": "312622dd68d5df83",
   "lastOpenFiles": [
+    "编译原理 学习笔记/词法分析.md",
+    "编译原理 学习笔记",
     "30天自制高性能linux web服务器/图片",
     "30天自制高性能linux web服务器",
     "求职/项目准备.md",
