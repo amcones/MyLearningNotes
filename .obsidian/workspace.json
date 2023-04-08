@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21b277d958e839c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS144 学习笔记/lab0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md",
+                "file": "CS144 学习笔记/lab0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md",
+                "file": "CS144 学习笔记/lab0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md"
+                "file": "CS144 学习笔记/lab0.md"
               }
             }
           },
@@ -158,10 +171,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "63c801dc91bf36d1",
+  "active": "21b277d958e839c8",
   "lastOpenFiles": [
-    "modern C++ 学习笔记/智能指针.md",
     "modern C++ 学习笔记/移动语义.md",
+    "CS144 学习笔记/lab0.md",
+    "CS144 学习笔记",
+    "modern C++ 学习笔记/智能指针.md",
     "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
     "modern C++ 学习笔记",
     "编译原理 学习笔记/词法分析.md",
@@ -197,7 +212,6 @@
     "求职",
     "Golang 学习笔记/青训营/系统设计.md",
     "Golang 学习笔记/青训营/黑灰产监控与防御.md",
-    "Golang 学习笔记/青训营/分布式定时任务.md",
     "操作系统",
     "计算机图形学/图片",
     "计算机图形学"
