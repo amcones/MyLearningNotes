@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md",
+                "file": "求职/数据库/redis/redis对象/HSet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b188434e8ab98639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编译原理 学习笔记/期末复习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cb0f4f2b7fd3b2e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md",
+                "file": "编译原理 学习笔记/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md",
+                "file": "编译原理 学习笔记/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modern C++ 学习笔记/移动语义.md"
+                "file": "编译原理 学习笔记/期末复习.md"
               }
             }
           },
@@ -148,21 +169,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "obsidian-wordpress:WordPress Publish": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "63c801dc91bf36d1",
+  "active": "b188434e8ab98639",
   "lastOpenFiles": [
+    "求职/数据库/redis/redis运作/数据持久化.md",
+    "编译原理 学习笔记/期末复习.md",
+    "求职/数据库/redis/redis运作/内存淘汰.md",
+    "求职/数据库/redis/redis运作/Redis单线程.md",
+    "求职/数据库/redis/redis运作/Redis内存存储.md",
+    "求职/数据库/redis/redis对象/Stream.md",
+    "求职/数据库/redis/redis对象/ZSET.md",
+    "求职/数据库/redis/redis对象/Set.md",
+    "求职/数据库/redis/redis对象/HSet.md",
+    "modern C++ 学习笔记/移动语义.md",
     "数据库 学习笔记/索引.md",
     "CS144 学习笔记/lab0.md",
-    "modern C++ 学习笔记/移动语义.md",
     "CS144 学习笔记",
     "modern C++ 学习笔记/智能指针.md",
     "30天自制高性能linux web服务器/30天自制高性能linux web服务器.md",
@@ -182,12 +212,6 @@
     "Redis 学习笔记/Set 类型.md",
     "Shell 学习笔记/Shell 个人笔记.md",
     "求职/面试准备.md",
-    "数据库 学习笔记/数据库优化.md",
-    "数据库 学习笔记/Redis.md",
-    "数据库 学习笔记/锁.md",
-    "数据库 学习笔记/事务管理.md",
-    "数据库 学习笔记/三大范式.md",
-    "操作系统/期末复习.md",
     "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
     "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
     "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
@@ -195,10 +219,7 @@
     "计算机图形学/图片/截屏2023-02-25 21.37.12.png",
     "计算机图形学/图片/截屏2023-02-25 20.58.00.png",
     "操作系统/图片",
-    "Golang 学习笔记/青训营/大项目记.md",
     "求职",
-    "Golang 学习笔记/青训营/系统设计.md",
-    "Golang 学习笔记/青训营/黑灰产监控与防御.md",
     "操作系统",
     "计算机图形学/图片",
     "计算机图形学"
