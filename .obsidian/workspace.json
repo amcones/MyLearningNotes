@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理 学习笔记/语法分析.md",
+                "file": "求职/计算机网络/TCPIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理 学习笔记/语法分析.md",
+                "file": "求职/计算机网络/TCPIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理 学习笔记/语法分析.md",
+                "file": "求职/计算机网络/TCPIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理 学习笔记/语法分析.md"
+                "file": "求职/计算机网络/TCPIP.md"
               }
             }
           },
@@ -166,11 +166,13 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "2310f97c7c7b4363",
+  "active": "63c801dc91bf36d1",
   "lastOpenFiles": [
+    "编译原理 学习笔记/语法分析.md",
+    "求职/计算机网络/TCPIP.md",
+    "求职/计算机网络",
     "编译原理 学习笔记/词法分析.md",
     "编译原理 学习笔记/期末复习.md",
-    "编译原理 学习笔记/语法分析.md",
     "IMG_1233.jpeg",
     "IMG_1232 1.jpeg",
     "IMG_1232.jpeg",
@@ -202,7 +204,6 @@
     "Redis 学习笔记/Key的层级.md",
     "Redis 学习笔记/String 类型.md",
     "Redis 学习笔记/Redis 通用命令.md",
-    "Redis 学习笔记/安装Redis（Linux）.md",
     "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
     "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
     "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
@@ -212,7 +213,6 @@
     "操作系统/图片",
     "求职",
     "操作系统",
-    "计算机图形学/图片",
-    "计算机图形学"
+    "计算机图形学/图片"
   ]
 }
