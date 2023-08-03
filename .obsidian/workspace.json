@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职/计算机网络/HTTP.md",
+                "file": "数据库 学习笔记/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职/计算机网络/HTTP.md",
+                "file": "数据库 学习笔记/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职/计算机网络/HTTP.md",
+                "file": "数据库 学习笔记/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职/计算机网络/HTTP.md"
+                "file": "数据库 学习笔记/索引.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "63c801dc91bf36d1",
   "lastOpenFiles": [
+    "求职/数据库/mysql/mysql的执行.md",
+    "求职/数据库/mysql/mysql的存储结构.md",
     "求职/计算机网络/TCPIP.md",
     "求职/计算机网络/HTTP.md",
     "编译原理 学习笔记/语法分析.md",
@@ -202,8 +204,6 @@
     "求职/项目准备.md",
     "求职/项目开发.md",
     "Redis 学习笔记/Hash 类型.md",
-    "Redis 学习笔记/Key的层级.md",
-    "Redis 学习笔记/String 类型.md",
     "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
     "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
     "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
