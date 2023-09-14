@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库 学习笔记/索引.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e34216fa1f8f4107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "求职/计算机网络/TCPIP.md",
+                "file": "博客项目/通行密钥.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "求职/计算机网络/TCPIP.md",
+                "file": "博客项目/通行密钥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "求职/计算机网络/TCPIP.md",
+                "file": "博客项目/通行密钥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职/计算机网络/TCPIP.md"
+                "file": "博客项目/通行密钥.md"
               }
             }
           },
@@ -179,10 +166,17 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "e34216fa1f8f4107",
+  "active": "63c801dc91bf36d1",
   "lastOpenFiles": [
-    "求职/计算机网络/HTTP.md",
+    "近期目标.md",
+    "博客项目/通行密钥.md",
+    "博客项目",
+    "数据库 学习笔记/索引.md",
+    "IMG_1233.jpeg",
+    "IMG_1232.jpeg",
+    "IMG_1232 1.jpeg",
     "求职/计算机网络/TCPIP.md",
+    "求职/计算机网络/HTTP.md",
     "求职/数据库/mysql/MySQL 事务.md",
     "求职/数据库/mysql/MySQL 锁.md",
     "求职/数据库/mysql/MySQL 的执行.md",
@@ -191,13 +185,9 @@
     "求职/计算机网络",
     "编译原理 学习笔记/词法分析.md",
     "编译原理 学习笔记/期末复习.md",
-    "IMG_1233.jpeg",
-    "IMG_1232 1.jpeg",
-    "IMG_1232.jpeg",
     "计算机图形学/期末复习.md",
     "未命名.md",
     "未命名.canvas",
-    "近期目标.md",
     "求职/数据库/redis/redis对象/HSet.md",
     "求职/数据库/redis/redis运作/数据持久化.md",
     "求职/数据库/redis/redis运作/内存淘汰.md",
@@ -207,7 +197,6 @@
     "求职/数据库/redis/redis对象/ZSET.md",
     "求职/数据库/redis/redis对象/Set.md",
     "modern C++ 学习笔记/移动语义.md",
-    "数据库 学习笔记/索引.md",
     "CS144 学习笔记/lab0.md",
     "CS144 学习笔记",
     "modern C++ 学习笔记/智能指针.md",
@@ -216,7 +205,6 @@
     "编译原理 学习笔记",
     "30天自制高性能linux web服务器/图片",
     "30天自制高性能linux web服务器",
-    "求职/项目准备.md",
     "计算机图形学/图片/截屏2023-02-25 22.13.04.png",
     "计算机图形学/图片/截屏2023-02-25 22.09.00.png",
     "计算机图形学/图片/截屏2023-02-25 22.07.38.png",
@@ -225,7 +213,6 @@
     "计算机图形学/图片/截屏2023-02-25 20.58.00.png",
     "操作系统/图片",
     "求职",
-    "操作系统",
-    "计算机图形学/图片"
+    "操作系统"
   ]
 }
